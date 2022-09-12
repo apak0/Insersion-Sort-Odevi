@@ -13,8 +13,8 @@
     [2,6,16,22,18,27]
     [2,6,16,18,22,27]
     
+    
 2)Big-O Notation'ı O(n+1) / 2 => O(n^2)'dir.
-
 3) Time Complexity:
 Worst Case : O(n^2)
 Avarange Case: O(n^2)
